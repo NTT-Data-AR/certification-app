@@ -1,0 +1,8 @@
+* @certification-app/core-team
+/docs/01-analisis-funcional/ @certification-app/functional-owners
+/docs/02-datos/ @certification-app/data-owners
+/backend/database/ @certification-app/data-owners
+/docs/05-seguridad-cumplimiento/ @certification-app/security-owners
+/docs/06-agent-ai/ @certification-app/ai-owners
+/ai-agent/ @certification-app/ai-owners
+/governance/ @certification-app/product-owners

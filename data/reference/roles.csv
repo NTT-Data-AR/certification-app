@@ -1,0 +1,9 @@
+role,description
+COLLABORATOR,Own data
+MANAGER,Team data
+CERTIFICATION_OWNER,Catalog
+VALIDATOR,Validation
+DATA_STEWARD,Data quality
+ADMIN,Configuration
+AUDITOR,Audit
+AI_AGENT_SERVICE,Delegated tools

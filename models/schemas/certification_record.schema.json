@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "certification_record",
+  "type": "object",
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "collaborator_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "certification_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "issue_date": {
+      "type": "string",
+      "description": "date"
+    },
+    "expiration_date": {
+      "type": "string",
+      "description": "date|null"
+    },
+    "status": {
+      "type": "string",
+      "description": "record_status"
+    },
+    "source_system": {
+      "type": "string",
+      "description": "source"
+    }
+  },
+  "additionalProperties": false
+}

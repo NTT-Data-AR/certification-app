@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "certification_assignment",
+  "type": "object",
+  "properties": {
+    "assignment_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "assignee_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "certification_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "due_date": {
+      "type": "string",
+      "description": "date|null"
+    },
+    "status": {
+      "type": "string",
+      "description": "assignment_status"
+    },
+    "priority": {
+      "type": "string",
+      "description": "priority"
+    }
+  },
+  "additionalProperties": false
+}

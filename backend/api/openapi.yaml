@@ -1,0 +1,21 @@
+openapi: 3.0.3
+info:
+  title: Certification App API
+  version: 0.1.0
+paths:
+  /certifications:
+    get: { summary: Search catalog, responses: { '200': { description: OK } } }
+    post: { summary: Create certification, responses: { '201': { description: Created } } }
+  /assignments:
+    post: { summary: Create assignment, responses: { '201': { description: Created } } }
+  /records:
+    post: { summary: Register certification record, responses: { '201': { description: Created } } }
+  /records/{recordId}/validation:
+    post: { summary: Submit validation decision, responses: { '200': { description: OK } } }
+  /reports/coverage:
+    get: { summary: Coverage report, responses: { '200': { description: OK } } }
+  /ai/tools/list-due-renewals:
+    post: { summary: AI tool due renewals, responses: { '200': { description: OK } } }
+components:
+  securitySchemes:
+    bearerAuth: { type: http, scheme: bearer, bearerFormat: JWT }

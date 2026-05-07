@@ -1,0 +1,11 @@
+status,entity
+REPORTED,certification_record
+PENDING_VALIDATION,certification_record
+VALIDATED,certification_record
+REJECTED,certification_record
+ACTIVE,certification_record
+EXPIRING_SOON,certification_record
+EXPIRED,certification_record
+ASSIGNED,certification_assignment
+IN_PROGRESS,certification_assignment
+COMPLETED,certification_assignment

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "collaborator",
+  "type": "object",
+  "properties": {
+    "collaborator_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "employee_number": {
+      "type": "string",
+      "description": "string"
+    },
+    "email": {
+      "type": "string",
+      "description": "email"
+    },
+    "display_name": {
+      "type": "string",
+      "description": "string"
+    },
+    "business_unit_id": {
+      "type": "string",
+      "description": "uuid"
+    },
+    "employment_status": {
+      "type": "string",
+      "description": "ACTIVE|INACTIVE|LEAVE"
+    }
+  },
+  "additionalProperties": false
+}
