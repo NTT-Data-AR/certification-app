@@ -1,0 +1,10 @@
+process_id,process_name,rf_mapping,primary_actor,trigger_event,key_phases,decision_points,completion_sla,escalation_path
+P001,Alta Certificacion,RF-006,Collaborator,Collaborator obtains certification,Initiation;Evidence Upload;Validation;Notification,validator_approve_reject_request_info,10 days from evidence,Manager;Owner
+P002,Asignacion Certificacion,RF-002;RF-013,Manager,Manager assigns cert to team,Initiation;Rules Validation;Notification;Tracking,complete_waiver_expire,Due date or 4 years,Owner
+P003,Validacion Aprobacion,RF-008,Validator,Record pending validation,Initiation;Evidence Review;Decision;Notification,approve_reject_info_request,10 days from assignment,Owner;Auditor
+P004,Gestion Evidencias,RF-007,Collaborator,Collaborator uploads proof,Presigned URL;S3 Upload;Backend Confirmation;Retention,access_delete_archive,5 minutes for URL validity,IT Ops
+P005,Seguimiento Vencimientos,RF-017,System,Batch job nightly,Detection;Alert Generation;Gap Analysis;Renewal Initiation,auto_renew_manual_action,24 hours after expiration,Manager;Owner
+P006,Alertas Notificaciones,RF-018,System,Any process event,Creation;Enrichment;Send by Channel;Tracking,retry_failed_notification,2 minutes for first send,IT Ops;Support
+P007,Reporting,RF-016,Manager;Owner;Auditor,User requests report,Query Execution;Filtering by RBAC;Formatting;Export,on_demand_scheduled,5 seconds on-demand,IT Ops
+P008,Soporte Excepciones,RF-012,Owner,Manager requests waiver,Request;Owner Review;Decision;Vigencia Management,approve_reject_info_request,2 days for owner review,Owner;Compliance
+P009,Renovacion Certificacion,RF-014;RF-015,Collaborator,Cert approaching expiration,Detection;Initiation;Carga Evidencia;Validacion,auto_complete_waiver_expire,90 days from detection,Manager;Validator;Owner

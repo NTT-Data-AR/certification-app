@@ -1,0 +1,11 @@
+role_name,primary_focus,required_certs,recommended_certs,level_range,renewal_frequency
+Cloud Architect,Infrastructure & Cloud Design,"AWS Solutions Architect Professional, AWS Solutions Architect Associate, AWS Security - Specialty","AWS Database - Specialty, AWS Networking - Specialty, AWS DevOps Engineer Pro",Professional,Annual
+DevOps Engineer,CI/CD & Infrastructure,"AWS DevOps Engineer Professional, AWS Certified Developer - Associate","AWS Solutions Architect Associate, Docker Certified Associate, Kubernetes CKA",Professional,Annual
+Data Engineer,Data Processing & Pipelines,"AWS Certified Data Engineer Associate, Google Cloud Professional Data Engineer","Databricks Certified Data Engineer, Apache Spark, Snowflake",Professional,Biennial
+ML Engineer,Machine Learning & AI,"AWS Machine Learning Engineer Associate, Google Cloud Professional ML Engineer","AWS AI Practitioner, TensorFlow Certification, PyTorch",Professional,Annual
+Security Engineer,Information Security,"AWS Security - Specialty, CISSP, CEH","AWS Solutions Architect, CompTIA Security+, SANS GIAC",Professional,Annual
+Database Administrator,Database Management,"AWS Certified Database - Specialty, Oracle DBA","AWS Solutions Architect, MySQL Certified, PostgreSQL",Professional,Biennial
+Network Engineer,Network Infrastructure,"CompTIA Network+, Cisco CCNA","AWS Solutions Architect, AWS Networking - Specialty, Juniper",Professional,Biennial
+IT Operations,Infrastructure Operations,"CompTIA A+, AWS Cloud Operations - Associate","Linux+, AWS Solutions Architect, Azure Fundamentals",Intermediate,Annual
+Business Analyst,Requirements & Analysis,"Business Analysis IIBA ECBA","Agile Scrum Master, SAFe Practitioner, Data Analysis",Intermediate,Biennial
+QA Engineer,Quality Assurance & Testing,"ISTQB Certified Tester Foundation","Automated Testing, Agile Testing, Performance Testing",Intermediate,Biennial

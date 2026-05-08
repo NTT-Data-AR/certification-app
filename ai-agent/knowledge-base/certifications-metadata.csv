@@ -1,0 +1,51 @@
+certification_name,provider,level,focus_area,market_demand,is_trending,validity_months,difficulty_level,renewal_pattern,status
+AWS Certified AI Practitioner,AWS,Foundational,AI / GenAI,high,True,36.0,beginner,3.0 years,Activa
+AWS Certified Data Engineer – Associate,AWS,Associate,Data Engineering,high,True,36.0,intermediate,3.0 years,Activa
+AWS Certified Machine Learning Engineer – Associate,AWS,Associate,ML / AI / MLOps,high,False,36.0,intermediate,3.0 years,Activa
+AWS Certified Generative AI Developer – Professional,AWS,Professional,GenAI / LLMs / Amazon Bedrock,low,True,36.0,advanced,3.0 years,Activa
+AWS Certified Machine Learning – Specialty,AWS,Specialty,Machine Learning,low,True,36.0,specialized,3.0 years,Retira 31/03/2026
+Generative AI Leader,GCP,Foundational,AI / GenAI (no técnica),high,True,36.0,beginner,3.0 years,Activa
+Associate Data Practitioner,GCP,Associate,Data Engineering / Analytics / ML,high,True,36.0,intermediate,3.0 years,Activa
+Professional Data Engineer,GCP,Professional,Data Engineering (BigQuery / Dataflow / Pub/Sub),high,True,24.0,advanced,2.0 years,Activa
+Professional Machine Learning Engineer,GCP,Professional,ML / AI / MLOps / Vertex AI,high,False,24.0,advanced,2.0 years,Activa
+Professional Cloud Database Engineer,GCP,Professional,Databases (Cloud SQL / Spanner / Bigtable),high,False,24.0,advanced,2.0 years,Activa
+Azure Data Fundamentals,Azure,Fundamentals,Datos / Analytics,moderate,False,,,nan months,Activa
+Azure AI Fundamentals,Azure,Fundamentals,AI / ML / GenAI,low,True,,,nan months,Retira Jun 2026
+Power BI Data Analyst Associate,Azure,Associate,Analytics / Power BI / DAX,moderate,False,12.0,intermediate,1.0 years,Activa
+Azure Database Administrator Associate,Azure,Associate,Database / Azure SQL / SQL Server,moderate,False,12.0,intermediate,1.0 years,Activa
+Azure Data Scientist Associate,Azure,Associate,ML / AI / Azure Machine Learning,low,True,12.0,intermediate,1.0 years,Retira Jun 2026
+Azure AI Engineer Associate,Azure,Associate,AI Services / Azure OpenAI / Agentes,low,False,12.0,intermediate,1.0 years,Retira Jun 2026
+Fabric Analytics Engineer Associate,Azure,Associate,Analytics / Microsoft Fabric,moderate,False,12.0,intermediate,1.0 years,Activa
+Fabric Data Engineer Associate,Azure,Associate,Data Engineering / Microsoft Fabric,high,True,12.0,intermediate,1.0 years,Activa
+Azure Cosmos DB Developer Specialty,Azure,Specialty,NoSQL / Azure Cosmos DB,low,False,12.0,specialized,1.0 years,Activa
+Databricks Certified Data Engineer Associate,Databricks,Associate,Data Engineering / Delta Lake / Spark SQL,high,True,24.0,intermediate,2.0 years,Activa
+Databricks Certified Data Engineer Professional,Databricks,Professional,Data Engineering / Delta Live Tables / Unity Catalog,high,True,24.0,advanced,2.0 years,Activa
+Databricks Certified Machine Learning Associate,Databricks,Associate,ML / MLflow / Feature Store / AutoML,low,False,24.0,intermediate,2.0 years,Activa
+Databricks Certified Machine Learning Professional,Databricks,Professional,ML en producción / MLflow a escala / Model Serving,low,False,24.0,advanced,2.0 years,Activa
+Databricks Certified Generative AI Engineer Associate,Databricks,Associate,GenAI / LLMs / RAG / Prompt Engineering,low,True,24.0,intermediate,2.0 years,Activa
+Databricks Certified Associate Developer for Apache Spark,Databricks,Associate,Spark / DataFrame API / Transformaciones,low,False,24.0,intermediate,2.0 years,Activa
+Databricks Certified Data Analyst Associate,Databricks,Associate,Analytics / Databricks SQL / Dashboards,moderate,False,24.0,intermediate,2.0 years,Activa
+Databricks Certified Platform Administrator,Databricks,Specialist,Platform Admin / Seguridad / User Management,low,False,24.0,,2.0 years,Activa
+Databricks Accredited AWS Platform Architect,Databricks,Specialist,Databricks on AWS / Deployment / Networking,moderate,False,24.0,,2.0 years,Activa
+Databricks Accredited Azure Platform Architect,Databricks,Specialist,Databricks on Azure / Deployment / Networking,moderate,False,24.0,,2.0 years,Activa
+Databricks Accredited GCP Platform Architect,Databricks,Specialist,Databricks on GCP / Deployment / Networking,moderate,False,24.0,,2.0 years,Activa
+SnowPro Associate: Platform,Snowflake,Associate,Snowflake Platform / Notebooks / Cortex LLM,low,False,24.0,intermediate,2.0 years,Activa
+SnowPro Core,Snowflake,Core,Arquitectura Snowflake / Carga de datos / Seguridad,low,False,24.0,,2.0 years,Activa
+SnowPro Specialty: Gen AI,Snowflake,Specialty,GenAI / Cortex AI / LLM Functions / RAG,low,True,24.0,specialized,2.0 years,Activa
+SnowPro Specialty: Snowpark,Snowflake,Specialty,Snowpark / Python / ML en Snowflake,low,False,24.0,specialized,2.0 years,Activa
+SnowPro Specialty: Native Apps,Snowflake,Specialty,Native App Framework / Streamlit / Marketplace,low,False,24.0,specialized,2.0 years,Activa
+SnowPro Advanced: Architect,Snowflake,Advanced,Arquitectura de soluciones / Multi-cloud / DR,low,False,24.0,,2.0 years,Activa
+SnowPro Advanced: Data Engineer,Snowflake,Advanced,Pipelines avanzados / Streams / Tasks / Tuning,low,False,24.0,,2.0 years,Activa
+SnowPro Advanced: Data Scientist,Snowflake,Advanced,ML en Snowflake / Snowpark ML / Feature Engineering,low,False,24.0,,2.0 years,Activa
+SnowPro Advanced: Data Analyst,Snowflake,Advanced,SQL avanzado / Snowsight / Data Storytelling,low,False,24.0,,2.0 years,Activa
+SnowPro Advanced: Administrator,Snowflake,Advanced,Account Admin / Cost Optimization / Governance,low,False,24.0,,2.0 years,Activa
+SnowPro Advanced: Security Engineer,Snowflake,Advanced,RBAC / Encriptación / Column Masking / Audit,low,False,24.0,,2.0 years,Activa
+dbt Analytics Engineering Certification,dbt Labs,Professional,dbt Core / Data Modeling / SQL Transformations / Testing,low,False,24.0,advanced,2.0 years,Activa
+NVIDIA-Certified Associate – AI Infrastructure and Operations,NVIDIA,Associate,AI Infrastructure / GPU Compute / Operaciones,low,False,24.0,intermediate,2.0 years,Activa
+NVIDIA-Certified Associate – Generative AI with LLMs,NVIDIA,Associate,GenAI / LLMs / Prompt Engineering,low,True,24.0,intermediate,2.0 years,Activa
+NVIDIA-Certified Associate – Generative AI Multimodal,NVIDIA,Associate,GenAI Multimodal / Texto / Imagen / Audio,low,True,24.0,intermediate,2.0 years,Activa
+NVIDIA-Certified Associate – Accelerated Data Science,NVIDIA,Associate,Data Science con GPU / RAPIDS / cuDF / cuML,low,False,24.0,intermediate,2.0 years,Activa
+NVIDIA-Certified Professional – AI Infrastructure,NVIDIA,Professional,Deploy y config de clusters DGX/HGX,low,False,24.0,advanced,2.0 years,Activa
+NVIDIA-Certified Professional – AI Operations,NVIDIA,Professional,Monitoreo y optimización de infraestructura AI (lab práctico),low,False,24.0,advanced,2.0 years,Activa
+NVIDIA-Certified Professional – AI Networking,NVIDIA,Professional,InfiniBand / Spectrum Networking / GPU Interconnects,moderate,False,24.0,advanced,2.0 years,Activa
+NVIDIA-Certified Professional – Accelerated Data Science,NVIDIA,Professional,Pipelines Data Science en producción / RAPIDS / MLOps,low,False,24.0,advanced,2.0 years,Activa
